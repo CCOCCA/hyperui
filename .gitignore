@@ -16,9 +16,6 @@ out/
 # ENVs
 .env*
 
-# CSS
-public/*.css
-
 # VS Code
 .vscode/
 .history/
@@ -26,3 +23,5 @@ public/*.css
 # Miscellaneous
 *.log
 *.tmp
+
+.idea
